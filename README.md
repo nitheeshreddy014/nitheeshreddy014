@@ -185,21 +185,38 @@ Currently   :
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=nitheeshreddy014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=nitheeshreddy014&theme=tokyonight&hide_border=true" />
+<img src="https://img.shields.io/github/stars/nitheeshreddy014?style=for-the-badge&logo=github&label=Total%20Stars&color=FFD700&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/nitheeshreddy014?style=for-the-badge&logo=github&label=Followers&color=236ad3&labelColor=1a1a2e" />
+&nbsp;
+<img src="https://img.shields.io/badge/Public%20Repos-7-informational?style=for-the-badge&logo=github&color=0e75b6&labelColor=1a1a2e" />
 
-<br/>
+<br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshreddy014&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="65%" src="https://streak-stats.demolab.com/?user=nitheeshreddy014&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nitheeshreddy014&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1" />
+
+<img src="https://img.shields.io/badge/AWS%20Bedrock-AgentCore%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Terraform-IaC%20Specialist-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/Docker-Container%20Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD%20Engineer-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/FastAPI-Backend%20Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+&nbsp;
+<img src="https://img.shields.io/badge/LangChain-AI%20Explorer-1C3C3C?style=for-the-badge&logo=python&logoColor=white" />
+
 </div>
 
 ---
