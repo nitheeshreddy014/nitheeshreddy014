@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Nitheesh%20Reddy%20Pocharam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AWS%20%7C%20Azure%20%7C%20Terraform%20%7C%20AI%20Explorer&descAlignY=58&descSize=16&descColor=a8d8ea" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=180&section=header&text=Nitheesh%20Reddy%20Pocharam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=Cloud+%26+DevOps+Engineer;Terraform+IaC+Specialist;Python+%26+FastAPI+Backend+Developer;Generative+AI+%26+Agentic+AI+Explorer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
