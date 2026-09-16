@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=180&section=header&text=Nitheesh%20Reddy%20Pocharam&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=45" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=200&section=header&text=Nitheesh%20Reddy%20Pocharam&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20AI%20Explorer&descSize=18&descAlignY=62&descColor=00D9FF" />
 
 <!-- Typing Animation -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&random=false&width=750&height=50&lines=Cloud+%26+DevOps+Engineer;Terraform+IaC+Specialist;Python+%26+FastAPI+Backend+Developer;Generative+AI+%26+Agentic+AI+Explorer;AWS+%7C+Azure+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
@@ -14,6 +14,8 @@
 <a href="https://github.com/nitheeshreddy014?tab=followers">
   <img src="https://img.shields.io/github/followers/nitheeshreddy014?style=for-the-badge&color=236ad3&labelColor=1155ba&logo=github&label=FOLLOWERS" alt="followers"/>
 </a>
+&nbsp;
+<img src="https://img.shields.io/badge/Focus-DevOps%20%26%20AI-blueviolet?style=for-the-badge&logo=rocket&logoColor=white" alt="focus"/>
 
 </div>
 
@@ -41,6 +43,14 @@ Currently   :
   - 🔬 Building RAG-based Agentic AI apps (LangChain + LangGraph)
   - 🦷 Developing a Full-Stack Dental Clinic Web App
 ```
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=nitheeshreddy014&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+</div>
 
 ---
 
@@ -193,7 +203,24 @@ Currently   :
 
 <br/><br/>
 
-<img width="65%" src="https://streak-stats.demolab.com/?user=nitheeshreddy014&theme=tokyonight&hide_border=true" />
+<table width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nitheeshreddy014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshreddy014&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com/?user=nitheeshreddy014&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br/><br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitheeshreddy014&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph" />
 
 </div>
 
@@ -203,19 +230,30 @@ Currently   :
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/AWS%20Bedrock-AgentCore%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Terraform-IaC%20Specialist-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Docker-Container%20Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD%20Engineer-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/FastAPI-Backend%20Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/LangChain-AI%20Explorer-1C3C3C?style=for-the-badge&logo=python&logoColor=white" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/AWS%20Bedrock-AgentCore%20Builder-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Terraform-IaC%20Specialist-623CE4?style=for-the-badge&logo=terraform&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Docker-Container%20Expert-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Azure%20DevOps-CI%2FCD%20Engineer-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/FastAPI-Backend%20Developer-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/LangChain-AI%20Explorer-1C3C3C?style=for-the-badge&logo=python&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -223,14 +261,18 @@ Currently   :
 
 ## 📜 Certifications & Learning
 
-| Status | Certification / Area |
-|--------|----------------------|
-| 🔄 In Progress | **AWS Certified AI Practitioner** |
-| 🔬 Exploring | **Generative AI & Agentic AI** — RAG, LangChain, LangGraph |
-| 🔬 Exploring | **Vector Databases** — pgvector, ChromaDB |
-| 🔬 Exploring | **MCP Server** — Model Context Protocol |
-| ✅ Hands-on | **Terraform (AWS & Azure)** — IaC Specialist |
-| ✅ Hands-on | **Docker & Kubernetes (AKS)** |
+<div align="center">
+
+| Status | Certification / Area | Badge |
+|:------:|----------------------|:-----:|
+| 🔄 **In Progress** | **AWS Certified AI Practitioner** | ![AWS](https://img.shields.io/badge/AWS-AI%20Practitioner-FF9900?style=flat-square&logo=amazon-aws&logoColor=white) |
+| 🔬 **Exploring** | **Generative AI & Agentic AI** — RAG, LangChain, LangGraph | ![AI](https://img.shields.io/badge/GenAI-LangChain%20%7C%20LangGraph-1C3C3C?style=flat-square&logo=python&logoColor=white) |
+| 🔬 **Exploring** | **Vector Databases** — pgvector, ChromaDB | ![VectorDB](https://img.shields.io/badge/VectorDB-pgvector%20%7C%20ChromaDB-4169E1?style=flat-square&logo=postgresql&logoColor=white) |
+| 🔬 **Exploring** | **MCP Server** — Model Context Protocol | ![MCP](https://img.shields.io/badge/MCP-Model%20Context%20Protocol-6B46C1?style=flat-square&logo=openai&logoColor=white) |
+| ✅ **Hands-on** | **Terraform (AWS & Azure)** — IaC Specialist | ![Terraform](https://img.shields.io/badge/Terraform-IaC%20Specialist-623CE4?style=flat-square&logo=terraform&logoColor=white) |
+| ✅ **Hands-on** | **Docker & Kubernetes (AKS)** | ![K8s](https://img.shields.io/badge/K8s-AKS%20Cluster-326CE5?style=flat-square&logo=kubernetes&logoColor=white) |
+
+</div>
 
 ---
 
@@ -238,25 +280,36 @@ Currently   :
 
 <div align="center">
 
-<a href="mailto:Nitheeshreddy014@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/nitheesh-reddy-pocharam">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/nitheeshreddy014">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="tel:+919398161844">
-  <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</a>
+<table>
+  <tr>
+    <td align="center">
+      <a href="mailto:Nitheeshreddy014@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://linkedin.com/in/nitheesh-reddy-pocharam">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/nitheeshreddy014">
+        <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="tel:+919398161844">
+        <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
-<br/><br/>
+<br/>
 
-📍 **Hyderabad, India** &nbsp;|&nbsp; 💼 **Open to:** Cloud Engineering · DevOps · AI/ML Infrastructure · Automation
+<img src="https://img.shields.io/badge/📍%20Location-Hyderabad%2C%20India-0e75b6?style=for-the-badge" />
+&nbsp;
+<img src="https://img.shields.io/badge/💼%20Open%20To-Cloud%20%7C%20DevOps%20%7C%20AI%2FML%20Infra-success?style=for-the-badge" />
 
 </div>
 
@@ -270,11 +323,26 @@ Currently   :
 
 ---
 
+## 💡 Dev Quote of the Day
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+---
+
 <div align="center">
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,20,24,30&height=140&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=ffffff&animation=fadeIn&fontAlignY=65"/>
+
+<br/>
 
 *⭐ If you find my work interesting, feel free to star my repos and connect!*
+
+<br/>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-red?style=flat-square)
+![Profile](https://img.shields.io/badge/GitHub%20Profile-nitheeshreddy014-181717?style=flat-square&logo=github)
 
 </div>
