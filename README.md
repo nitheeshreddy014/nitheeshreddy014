@@ -203,24 +203,7 @@ Currently   :
 
 <br/><br/>
 
-<table width="100%">
-  <tr>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=nitheeshreddy014&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats" />
-    </td>
-    <td align="center" width="50%">
-      <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nitheeshreddy014&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 <img width="70%" src="https://streak-stats.demolab.com/?user=nitheeshreddy014&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=nitheeshreddy014&theme=tokyo-night&hide_border=true&area=true&area_color=00D9FF&line=00D9FF&point=ffffff" alt="Contribution Graph" />
 
 </div>
 
